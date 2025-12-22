@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 SWE @ Charles River Analytics<br>🎓 BS HCDD @ SHC & IST Penn State<br>🔭 I’m currently working on developing a React component library<br>🌱 I’m currently learning Rust<br>⚡ Currently taking classes and HES/Harvard
+💼 Research Engineer @ Charles River Analytics<br>🎓 MSCS Student at GT 🐝<br>🎓 AI in Medicine Student at UofL 🐦‍🔥<br>🎓 BS HCDD @ SHC & IST Penn State<br>🔭 I’m currently working on developing a React component library<br>🌱 I’m currently learning Rust
 
 
 ## 🌐 Socials:
