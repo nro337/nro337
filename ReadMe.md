@@ -1,5 +1,10 @@
 # 💫 About Me:
-💼 Research Engineer @ Charles River Analytics<br>🎓 MSCS Student at GT 🐝<br>🎓 AI in Medicine Student at UofL 🐦‍🔥<br>🎓 BS HCDD @ SHC & IST Penn State<br>🔭 I’m currently working on developing a React component library<br>🌱 I’m currently learning Rust
+💼 Research Engineer @ Charles River Analytics<br>
+🛠️ Building Bioinformatics Tooling for [ARPA-H BDF](https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox)<br>
+🎓 MSCS Student at GT 🐝<br>
+👨🏻‍🔬 Self-Explanable HAI Research<br>
+🎓 AI in Medicine Student at UofL 🐦‍🔥<br>
+🎓 BS HCDD @ SHC & IST Penn State<br>
 
 
 ## 🌐 Socials:
