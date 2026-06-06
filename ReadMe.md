@@ -1,8 +1,8 @@
 # 💫 About Me:
 💼 Research Engineer @ Charles River Analytics<br>
-🛠️ Building Bioinformatics Tooling for [ARPA-H BDF](https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox)<br>
+🛠️ Building Open-Source Bioinformatics Tooling for [ARPA-H BDF](https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox) and [PCX](https://arpa-h.gov/news-and-events/arpa-h-announces-50m-expand-pediatric-care-across-country)<br>
 🎓 MSCS Student at GT 🐝<br>
-👨🏻‍🔬 Self-Explanable HAI Research<br>
+👨🏻‍🔬 GRA studying Self-Explanable HAI<br>
 🎓 AI in Medicine Student at UofL 🐦‍🔥<br>
 🎓 BS HCDD @ SHC & IST Penn State<br>
 
