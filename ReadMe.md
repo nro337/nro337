@@ -3,7 +3,7 @@
 🛠️ Building Open-Source Bioinformatics Tooling for [ARPA-H BDF](https://arpa-h.gov/explore-funding/programs/arpa-h-bdf-toolbox) and [PCX](https://arpa-h.gov/news-and-events/arpa-h-announces-50m-expand-pediatric-care-across-country)<br>
 🎓 MSCS Student at GT 🐝<br>
 👨🏻‍🔬 GRA studying Self-Explanable HAI<br>
-🎓 AI in Medicine Student at UofL 🐦‍🔥<br>
+🎓 AI in Medicine Grad Cert @ UofL 🐦‍🔥<br>
 🎓 BS HCDD @ SHC & IST Penn State<br>
 
 
